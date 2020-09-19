@@ -1,4 +1,4 @@
-### Hi there, I'm Satya😍👋
+### Hi Buddy, I'm Satya😍👋
 
 ## I'm a React Developer!
 - 🌱 I’m currently learning Data Structures and Algorithms
